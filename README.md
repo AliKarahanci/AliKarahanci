@@ -6,9 +6,5 @@ During my four-year academic journey, I have gained a wide range of competencies
 [![My Skills](https://skillicons.dev/icons?i=bun,c,cs,cpp,rust,python,ubuntu,debian,redhat,linux,bsd)](https://skillicons.dev)
 
 ### Projects && Guides
-
-**Guides:**
-* <br>[`Linux Rehberi (Turkish)`](https://github.com/AliKarahanci/linux-rehberi) - Türkçe / Linux Rehberi.
-
-* **Projects:** 
-<br>[`wp-linux`](https://github.com/AliKarahanci/wp-linux) - Whatsapp client for Linux.
+* [`Linux Rehberi (Turkish)`](https://github.com/AliKarahanci/linux-rehberi) - Türkçe / Linux kullanım ve tercih rehberi
+* [`wp-linux`](https://github.com/AliKarahanci/wp-linux) - Whatsapp client for Linux.
