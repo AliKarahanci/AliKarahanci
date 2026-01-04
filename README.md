@@ -7,6 +7,8 @@ During my four-year academic journey, I have gained a wide range of competencies
 
 ### Projects && Guides
 
-**Projects:** [`wp-linux`](https://github.com/AliKarahanci/wp-linux)
+**Projects:** 
+<br>[`wp-linux`](https://github.com/AliKarahanci/wp-linux)
 
-**Guides:** [`Linux Rehberi (Turkish)`](https://github.com/AliKarahanci/linux-rehberi)
+**Guides:**
+<br>[`Linux Rehberi (Turkish)`](https://github.com/AliKarahanci/linux-rehberi)
