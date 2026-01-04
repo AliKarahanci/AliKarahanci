@@ -3,4 +3,4 @@ During my four-year academic journey, I have gained a wide range of competencies
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliKarahanci)
 
-[![My Skills](https://skillicons.dev/icons?i=bun,c,cs,rust,python,ubuntu,debian,redhat,bsd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bun,c,cs,cpp,rust,python,ubuntu,debian,redhat,linux,bsd)](https://skillicons.dev)
