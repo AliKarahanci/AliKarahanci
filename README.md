@@ -9,4 +9,4 @@ During my four-year academic journey, I have gained a wide range of competencies
 
 **Projects:**
 
-**Guides:** `Linux Rehberi (Turkish)`
+**Guides:** [`Linux Rehberi (Turkish)`](https://github.com/AliKarahanci/linux-rehberi)
