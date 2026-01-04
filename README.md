@@ -8,3 +8,6 @@ During my four-year academic journey, I have gained a wide range of competencies
 ### Projects && Guides
 * [`Linux Rehberi (Turkish)`](https://github.com/AliKarahanci/linux-rehberi) - Türkçe / Linux kullanım ve tercih rehberi
 * [`wp-linux`](https://github.com/AliKarahanci/wp-linux) - Whatsapp client for Linux.
+
+## Contacts
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karahanciali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karahanciali@hotmail.com) 
