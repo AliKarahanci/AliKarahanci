@@ -14,8 +14,10 @@
 - Software Developer (4 years)
 
 ## Languages
-- Azerbaijani (Native)
-- Turkish (Near-Native)
+### Native
+* Turkish
+* Azerbaijani
+### Work Competence
 - English 
 - Japanese
 
