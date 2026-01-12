@@ -12,7 +12,8 @@ Contact me via email:
 [karahanciali@hotmail.com](mailto:karahanciali@hotmail.com)
 
 ### Projects && Guides
-* [`Linux Rehberi (Turkish)`](https://github.com/AliKarahanci/linux-rehberi) - Türkçe / Linux kullanım ve tercih rehberi
+* [`Linux Rehberi (Turkish)`](https://github.com/AliKarahanci/linux-rehberi) - Linux kullanım ve tercih rehberi \[Türkçe/Turkish]
+* [`Linux Japanese Guide`](https://github.com/AliKarahanci/Linux-Japanese-Guide) - Linux 日本語利用・選定ガイド \[日本語/Japanese]
 * [`wp-linux`](https://github.com/AliKarahanci/wp-linux) - Whatsapp client for Linux.
 
 ## Social
