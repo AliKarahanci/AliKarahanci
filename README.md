@@ -1,4 +1,4 @@
-## Hi there
+## Ali Karahancı
 
 \[日本語]: 「4年間の学業を通じ、オブジェクト指向プログラミングからフルスケールのアプリケーション開発に至るまで、多岐にわたる専門技術を習得してまいりました。私は単に技術を享受する側ではなく、自ら技術を創造する側であることを重視しております。そのため、オープンソースプロジェクトへの参画や支援にも積極的に取り組んでおります。」
 
@@ -9,16 +9,19 @@
 [![My Skills](https://skillicons.dev/icons?i=bun,c,cs,cpp,rust,python,ubuntu,debian,redhat,linux,bsd,androidstudio)](https://skillicons.dev)
 
 ## Education
-DYMTAL - Software Developer (4 years)
+### DYMTAL
+- Software Developer (4 years)
 
-### Projects && Guides
+## Languages
+- Azerbaijani (Native)
+- Turkish (Near-Native)
+- English 
+- Japanese
+
+## Projects && Guides
 * [`Linux Rehberi (Turkish)`](https://github.com/AliKarahanci/linux-rehberi) - Linux kullanım ve tercih rehberi \[Türkçe/Turkish]
 * [`Linux Japanese Guide`](https://github.com/AliKarahanci/Linux-Japanese-Guide) - Linux 日本語利用・選定ガイド \[日本語/Japanese]
 * [`wp-linux`](https://github.com/AliKarahanci/wp-linux) - Whatsapp client for Linux.
 
 ## Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karahanciali) 
-
-
-Contact me via email:
-<br>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karahanciali@hotmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karahanciali@hotmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karahanciali) 
