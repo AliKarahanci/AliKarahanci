@@ -6,6 +6,7 @@
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliKarahanci)
 
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=bun,c,cs,cpp,rust,python,ubuntu,debian,redhat,linux,bsd,androidstudio)](https://skillicons.dev)
 
 ## Education
