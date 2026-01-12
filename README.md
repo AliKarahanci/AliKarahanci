@@ -8,6 +8,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bun,c,cs,cpp,rust,python,ubuntu,debian,redhat,linux,bsd,androidstudio)](https://skillicons.dev)
 
+Contact me via email:
+[karahanciali@hotmail.com](mailto:karahanciali@hotmail.com)
+
 ### Projects && Guides
 * [`Linux Rehberi (Turkish)`](https://github.com/AliKarahanci/linux-rehberi) - Türkçe / Linux kullanım ve tercih rehberi
 * [`wp-linux`](https://github.com/AliKarahanci/wp-linux) - Whatsapp client for Linux.
