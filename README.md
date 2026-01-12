@@ -8,6 +8,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bun,c,cs,cpp,rust,python,ubuntu,debian,redhat,linux,bsd,androidstudio)](https://skillicons.dev)
 
+## Education
+DYMTAL - Software Developer (4 years)
+
 Contact me via email:
 [karahanciali@hotmail.com](mailto:karahanciali@hotmail.com)
 
